@@ -1,1 +1,1 @@
-My first readme
+This is the first ALX Github repository
