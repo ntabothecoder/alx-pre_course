@@ -1,2 +1,0 @@
-*.emacs
-#this gitignore prevents any files with the extension .emacs from being pushed to a remote repository
